@@ -1,6 +1,6 @@
 {
   "name": "acnh-items",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Database of certain collectible items in Animal Crossing: New Horizons.",
   "main": "dist/index.js",
   "scripts": {
