@@ -21,6 +21,7 @@
     "@types/lodash.zipobject": "^4.1.6",
     "babel-jest": "^26.0.1",
     "jest": "^26.0.1",
+    "lodash.find": "^4.6.0",
     "rollup": "^1.32.1",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-json": "^4.0.0",

@@ -16,9 +16,9 @@ export type ResalePrice = number;
  */
 export type Location = string;
 /**
- * The size of the fish's shadow in the water, from 1 (tiny) to 6 (huge).
+ * The size of the fish's shadow in the water, from 1 (tiny) to 6 (huge), or 'Narrow' for eels.
  */
-export type ShadowSize = number;
+export type ShadowSize = number | 'Narrow';
 /**
  * Whether the fish's shadow has a visible fin.
  */
