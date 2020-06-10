@@ -3,6 +3,8 @@
   "version": "0.2.0",
   "description": "Database of certain collectible items in Animal Crossing: New Horizons.",
   "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "jsnext:main": "dist/index.es.js",
   "scripts": {
     "build": "rollup -c",
     "prepare": "npm run build",
