@@ -1,0 +1,385 @@
+{
+  "$schema": "http://schemas.mechanicalninja.com/acnh/music.schema.json",
+  "data": [
+    {
+      "name": "Agent K.K.",
+      "secret": false
+    },
+    {
+      "name": "Aloha K.K.",
+      "secret": false
+    },
+    {
+      "name": "Animal City",
+      "secret": false
+    },
+    {
+      "name": "Bubblegum K.K.",
+      "secret": false
+    },
+    {
+      "name": "Café K.K.",
+      "secret": false
+    },
+    {
+      "name": "Comrade K.K.",
+      "secret": false
+    },
+    {
+      "name": "DJ K.K.",
+      "secret": false
+    },
+    {
+      "name": "Drivin'",
+      "secret": true
+    },
+    {
+      "name": "Farewell",
+      "secret": true
+    },
+    {
+      "name": "Forest Life",
+      "secret": false
+    },
+    {
+      "name": "Go K.K. Rider",
+      "secret": false
+    },
+    {
+      "name": "Hypno K.K.",
+      "secret": false
+    },
+    {
+      "name": "I Love You",
+      "secret": false
+    },
+    {
+      "name": "Imperial K.K.",
+      "secret": false
+    },
+    {
+      "name": "K.K. Adventure",
+      "secret": false
+    },
+    {
+      "name": "K.K. Aria",
+      "secret": false
+    },
+    {
+      "name": "K.K. Ballad",
+      "secret": false
+    },
+    {
+      "name": "K.K. Bazaar",
+      "secret": false
+    },
+    {
+      "name": "K.K. Birthday",
+      "secret": false
+    },
+    {
+      "name": "K.K. Blues",
+      "secret": false
+    },
+    {
+      "name": "K.K. Bossa",
+      "secret": false
+    },
+    {
+      "name": "K.K. Calypso",
+      "secret": false
+    },
+    {
+      "name": "K.K. Casbah",
+      "secret": false
+    },
+    {
+      "name": "K.K. Chorale",
+      "secret": false
+    },
+    {
+      "name": "K.K. Condor",
+      "secret": false
+    },
+    {
+      "name": "K.K. Country",
+      "secret": false
+    },
+    {
+      "name": "K.K. Cruisin'",
+      "secret": false
+    },
+    {
+      "name": "K.K. D&B",
+      "secret": false
+    },
+    {
+      "name": "K.K. Dirge",
+      "secret": false
+    },
+    {
+      "name": "K.K. Disco",
+      "secret": false
+    },
+    {
+      "name": "K.K. Dixie",
+      "secret": false
+    },
+    {
+      "name": "K.K. Étude",
+      "secret": false
+    },
+    {
+      "name": "K.K. Faire",
+      "secret": false
+    },
+    {
+      "name": "K.K. Flamenco",
+      "secret": false
+    },
+    {
+      "name": "K.K. Folk",
+      "secret": false
+    },
+    {
+      "name": "K.K. Fusion",
+      "secret": false
+    },
+    {
+      "name": "K.K. Groove",
+      "secret": false
+    },
+    {
+      "name": "K.K. Gumbo",
+      "secret": false
+    },
+    {
+      "name": "K.K. House",
+      "secret": false
+    },
+    {
+      "name": "K.K. Island",
+      "secret": false
+    },
+    {
+      "name": "K.K. Jazz",
+      "secret": false
+    },
+    {
+      "name": "K.K. Jongara",
+      "secret": false
+    },
+    {
+      "name": "K.K. Lament",
+      "secret": false
+    },
+    {
+      "name": "K.K. Love Song",
+      "secret": false
+    },
+    {
+      "name": "K.K. Lullaby",
+      "secret": false
+    },
+    {
+      "name": "K.K. Mambo",
+      "secret": false
+    },
+    {
+      "name": "K.K. Marathon",
+      "secret": false
+    },
+    {
+      "name": "K.K. March",
+      "secret": false
+    },
+    {
+      "name": "K.K. Mariachi",
+      "secret": false
+    },
+    {
+      "name": "K.K. Metal",
+      "secret": false
+    },
+    {
+      "name": "K.K. Milonga",
+      "secret": false
+    },
+    {
+      "name": "K.K. Moody",
+      "secret": false
+    },
+    {
+      "name": "K.K. Oasis",
+      "secret": false
+    },
+    {
+      "name": "K.K. Parade",
+      "secret": false
+    },
+    {
+      "name": "K.K. Ragtime",
+      "secret": false
+    },
+    {
+      "name": "K.K. Rally",
+      "secret": false
+    },
+    {
+      "name": "K.K. Reggae",
+      "secret": false
+    },
+    {
+      "name": "K.K. Rock",
+      "secret": false
+    },
+    {
+      "name": "K.K. Rockabilly",
+      "secret": false
+    },
+    {
+      "name": "K.K. Safari",
+      "secret": false
+    },
+    {
+      "name": "K.K. Salsa",
+      "secret": false
+    },
+    {
+      "name": "K.K. Samba",
+      "secret": false
+    },
+    {
+      "name": "K.K. Ska",
+      "secret": false
+    },
+    {
+      "name": "K.K. Sonata",
+      "secret": false
+    },
+    {
+      "name": "K.K. Song",
+      "secret": false
+    },
+    {
+      "name": "K.K. Soul",
+      "secret": false
+    },
+    {
+      "name": "K.K. Steppe",
+      "secret": false
+    },
+    {
+      "name": "K.K. Stroll",
+      "secret": false
+    },
+    {
+      "name": "K.K. Swing",
+      "secret": false
+    },
+    {
+      "name": "K.K. Synth",
+      "secret": false
+    },
+    {
+      "name": "K.K. Tango",
+      "secret": false
+    },
+    {
+      "name": "K.K. Technopop",
+      "secret": false
+    },
+    {
+      "name": "K.K. Waltz",
+      "secret": false
+    },
+    {
+      "name": "K.K. Western",
+      "secret": false
+    },
+    {
+      "name": "King K.K.",
+      "secret": false
+    },
+    {
+      "name": "Lucky K.K.",
+      "secret": false
+    },
+    {
+      "name": "Marine Song 2001",
+      "secret": false
+    },
+    {
+      "name": "Mountain Song",
+      "secret": false
+    },
+    {
+      "name": "Mr. K.K.",
+      "secret": false
+    },
+    {
+      "name": "My Place",
+      "secret": false
+    },
+    {
+      "name": "Neapolitan",
+      "secret": false
+    },
+    {
+      "name": "Only Me",
+      "secret": false
+    },
+    {
+      "name": "Pondering",
+      "secret": false
+    },
+    {
+      "name": "Rockin' K.K.",
+      "secret": false
+    },
+    {
+      "name": "Soulful K.K.",
+      "secret": false
+    },
+    {
+      "name": "Space K.K.",
+      "secret": false
+    },
+    {
+      "name": "Spring Blossoms",
+      "secret": false
+    },
+    {
+      "name": "Stale Cupcakes",
+      "secret": false
+    },
+    {
+      "name": "Steep Hill",
+      "secret": false
+    },
+    {
+      "name": "Surfin' K.K.",
+      "secret": false
+    },
+    {
+      "name": "The K. Funk",
+      "secret": false
+    },
+    {
+      "name": "To the Edge",
+      "secret": false
+    },
+    {
+      "name": "Two Days Ago",
+      "secret": false
+    },
+    {
+      "name": "Wandering",
+      "secret": false
+    },
+    {
+      "name": "Welcome Horizons",
+      "secret": true
+    }
+  ]
+}

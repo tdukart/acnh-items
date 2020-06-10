@@ -1,0 +1,1289 @@
+{
+  "$schema": "http://schemas.mechanicalninja.com/acnh/fish.schema.json",
+  "data": [
+    {
+      "name": "bitterling",
+      "critterpediaOrder": 1,
+      "price": 900,
+      "location": "River",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "111000000011",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "pale chub",
+      "critterpediaOrder": 2,
+      "price": 200,
+      "location": "River",
+      "shadowSize": 1,
+      "time": "9 AM - 4 PM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "crucian carp",
+      "critterpediaOrder": 3,
+      "price": 160,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "dace",
+      "critterpediaOrder": 4,
+      "price": 192,
+      "location": "River",
+      "shadowSize": 3,
+      "time": "4 PM - 9 AM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "carp",
+      "critterpediaOrder": 5,
+      "price": 300,
+      "location": "Pond",
+      "shadowSize": 4,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "koi",
+      "critterpediaOrder": 6,
+      "price": 4000,
+      "location": "Pond",
+      "shadowSize": 4,
+      "time": "4 PM - 9 AM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "goldfish",
+      "critterpediaOrder": 7,
+      "price": 1300,
+      "location": "Pond",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "pop-eyed goldfish",
+      "critterpediaOrder": 8,
+      "price": 1300,
+      "location": "Pond",
+      "shadowSize": 1,
+      "time": "9 AM - 4 PM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "ranchu goldfish",
+      "critterpediaOrder": 9,
+      "price": 4500,
+      "location": "Pond",
+      "shadowSize": 2,
+      "time": "9 AM - 4 PM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "killifish",
+      "critterpediaOrder": 10,
+      "price": 300,
+      "location": "Pond",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "000111110000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "crawfish",
+      "critterpediaOrder": 11,
+      "price": 200,
+      "location": "Pond",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "000111111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "soft-shelled turtle",
+      "critterpediaOrder": 12,
+      "price": 3750,
+      "location": "River",
+      "shadowSize": 4,
+      "time": "4 PM - 9 AM",
+      "months": "000000011000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "snapping turtle",
+      "critterpediaOrder": 13,
+      "price": 5000,
+      "location": "River",
+      "shadowSize": 5,
+      "time": "9 PM - 4 AM",
+      "months": "000111111100",
+      "timeRanges": {
+        "range1": [
+          21,
+          4
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "tadpole",
+      "critterpediaOrder": 14,
+      "price": 100,
+      "location": "Pond",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "001111100000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "frog",
+      "critterpediaOrder": 15,
+      "price": 120,
+      "location": "Pond",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "000011110000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "freshwater goby",
+      "critterpediaOrder": 16,
+      "price": 400,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "4 PM - 9 AM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "loach",
+      "critterpediaOrder": 17,
+      "price": 400,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "001110000000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "catfish",
+      "critterpediaOrder": 18,
+      "price": 800,
+      "location": "Pond",
+      "shadowSize": 4,
+      "time": "4 PM - 9 AM",
+      "months": "000011111100",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "giant snakehead",
+      "critterpediaOrder": 19,
+      "price": 5500,
+      "location": "Pond",
+      "shadowSize": 5,
+      "time": "9 AM - 4 PM",
+      "months": "000001110000",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "bluegill",
+      "critterpediaOrder": 20,
+      "price": 180,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "9 AM - 4 PM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "yellow perch",
+      "critterpediaOrder": 21,
+      "price": 300,
+      "location": "River",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "111000000111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "black bass",
+      "critterpediaOrder": 22,
+      "price": 320,
+      "location": "River",
+      "shadowSize": 4,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "tilapia",
+      "critterpediaOrder": 23,
+      "price": 800,
+      "location": "River",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "000001111100",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "pike",
+      "critterpediaOrder": 24,
+      "price": 1800,
+      "location": "River",
+      "shadowSize": 5,
+      "time": "All day",
+      "months": "000000001111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "pond smelt",
+      "critterpediaOrder": 25,
+      "price": 500,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "110000000001",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "sweetfish",
+      "critterpediaOrder": 26,
+      "price": 900,
+      "location": "River",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "000000111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "cherry salmon",
+      "critterpediaOrder": 27,
+      "price": 800,
+      "location": "River (Clifftop)",
+      "shadowSize": 3,
+      "time": "4 PM - 9 AM",
+      "months": "001111001110",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "char",
+      "critterpediaOrder": 28,
+      "price": 3800,
+      "location": "River (Clifftop) Pond",
+      "shadowSize": 3,
+      "time": "4 PM - 9 AM",
+      "months": "001111001110",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "golden trout",
+      "critterpediaOrder": 29,
+      "price": 15000,
+      "location": "River (Clifftop)",
+      "shadowSize": 3,
+      "time": "4 PM - 9 AM",
+      "months": "001110001110",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "stringfish",
+      "critterpediaOrder": 30,
+      "price": 15000,
+      "location": "River (Clifftop)",
+      "shadowSize": 5,
+      "time": "4 PM - 9 AM",
+      "months": "111000000001",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "salmon",
+      "critterpediaOrder": 31,
+      "price": 700,
+      "location": "River (Mouth)",
+      "shadowSize": 4,
+      "time": "All day",
+      "months": "000000001000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "king salmon",
+      "critterpediaOrder": 32,
+      "price": 1800,
+      "location": "River (Mouth)",
+      "shadowSize": 6,
+      "time": "All day",
+      "months": "000000001000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "mitten crab",
+      "critterpediaOrder": 33,
+      "price": 2000,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "4 PM - 9 AM",
+      "months": "000000001110",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "guppy",
+      "critterpediaOrder": 34,
+      "price": 1300,
+      "location": "River",
+      "shadowSize": 1,
+      "time": "9 AM - 4 PM",
+      "months": "000111111110",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "nibble fish",
+      "critterpediaOrder": 35,
+      "price": 1500,
+      "location": "River",
+      "shadowSize": 1,
+      "time": "9 AM - 4 PM",
+      "months": "000011111000",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "angelfish",
+      "critterpediaOrder": 36,
+      "price": 3000,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "4 PM - 9 AM",
+      "months": "000011111100",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "betta",
+      "critterpediaOrder": 37,
+      "price": 2500,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "9 AM - 4 PM",
+      "months": "000011111100",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "neon tetra",
+      "critterpediaOrder": 38,
+      "price": 500,
+      "location": "River",
+      "shadowSize": 1,
+      "time": "9 AM - 4 PM",
+      "months": "000111111110",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "rainbowfish",
+      "critterpediaOrder": 39,
+      "price": 800,
+      "location": "River",
+      "shadowSize": 1,
+      "time": "9 AM - 4 PM",
+      "months": "000011111100",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "piranha",
+      "critterpediaOrder": 40,
+      "price": 2500,
+      "location": "River",
+      "shadowSize": 2,
+      "time": "9 AM - 4 PM & 9 PM - 4 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          9,
+          16
+        ],
+        "range2": [
+          21,
+          4
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "arowana",
+      "critterpediaOrder": 41,
+      "price": 10000,
+      "location": "River",
+      "shadowSize": 4,
+      "time": "4 PM - 9 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "dorado",
+      "critterpediaOrder": 42,
+      "price": 15000,
+      "location": "River",
+      "shadowSize": 5,
+      "time": "4 AM - 9 PM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          4,
+          21
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "gar",
+      "critterpediaOrder": 43,
+      "price": 6000,
+      "location": "Pond",
+      "shadowSize": 6,
+      "time": "4 PM - 9 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "arapaima",
+      "critterpediaOrder": 44,
+      "price": 10000,
+      "location": "River",
+      "shadowSize": 6,
+      "time": "4 PM - 9 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "saddled bichir",
+      "critterpediaOrder": 45,
+      "price": 4000,
+      "location": "River",
+      "shadowSize": 4,
+      "time": "9 PM - 4 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          21,
+          4
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "sturgeon",
+      "critterpediaOrder": 46,
+      "price": 10000,
+      "location": "River (Mouth)",
+      "shadowSize": 6,
+      "time": "All day",
+      "months": "111000001111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "sea butterfly",
+      "critterpediaOrder": 47,
+      "price": 1000,
+      "location": "Sea",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "111000000001",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "sea horse",
+      "critterpediaOrder": 48,
+      "price": 1100,
+      "location": "Sea",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "000111111110",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "clown fish",
+      "critterpediaOrder": 49,
+      "price": 650,
+      "location": "Sea",
+      "shadowSize": 1,
+      "time": "All day",
+      "months": "000111111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "surgeonfish",
+      "critterpediaOrder": 50,
+      "price": 1000,
+      "location": "Sea",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "000111111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "butterfly fish",
+      "critterpediaOrder": 51,
+      "price": 1000,
+      "location": "Sea",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "000111111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "Napoleonfish",
+      "critterpediaOrder": 52,
+      "price": 10000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "time": "4 AM - 9 PM",
+      "months": "000000110000",
+      "timeRanges": {
+        "range1": [
+          4,
+          21
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "zebra turkeyfish",
+      "critterpediaOrder": 53,
+      "price": 500,
+      "location": "Sea",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "000111111110",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "blowfish",
+      "critterpediaOrder": 54,
+      "price": 5000,
+      "location": "Sea",
+      "shadowSize": 3,
+      "time": "9 PM - 4 AM",
+      "months": "110000000011",
+      "timeRanges": {
+        "range1": [
+          21,
+          4
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "puffer fish",
+      "critterpediaOrder": 55,
+      "price": 250,
+      "location": "Sea",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "000000111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "anchovy",
+      "critterpediaOrder": 56,
+      "price": 200,
+      "location": "Sea",
+      "shadowSize": 2,
+      "time": "4 AM - 9 PM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          4,
+          21
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "horse mackerel",
+      "critterpediaOrder": 57,
+      "price": 150,
+      "location": "Sea",
+      "shadowSize": 2,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "barred knifejaw",
+      "critterpediaOrder": 58,
+      "price": 5000,
+      "location": "Sea",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "001111111110",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "sea bass",
+      "critterpediaOrder": 59,
+      "price": 400,
+      "location": "Sea",
+      "shadowSize": 5,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "red snapper",
+      "critterpediaOrder": 60,
+      "price": 3000,
+      "location": "Sea",
+      "shadowSize": 4,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "dab",
+      "critterpediaOrder": 61,
+      "price": 300,
+      "location": "Sea",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "111100000111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "olive flounder",
+      "critterpediaOrder": 62,
+      "price": 800,
+      "location": "Sea",
+      "shadowSize": 5,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "squid",
+      "critterpediaOrder": 63,
+      "price": 500,
+      "location": "Sea",
+      "shadowSize": 3,
+      "time": "All day",
+      "months": "111111110001",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "moray eel",
+      "critterpediaOrder": 64,
+      "price": 2000,
+      "location": "Sea",
+      "shadowSize": "Narrow",
+      "time": "All day",
+      "months": "000000011100",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "ribbon eel",
+      "critterpediaOrder": 65,
+      "price": 600,
+      "location": "Sea",
+      "shadowSize": "Narrow",
+      "time": "All day",
+      "months": "000001111100",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "tuna",
+      "critterpediaOrder": 66,
+      "price": 7000,
+      "location": "Pier",
+      "shadowSize": 6,
+      "time": "All day",
+      "months": "111100000011",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "blue marlin",
+      "critterpediaOrder": 67,
+      "price": 10000,
+      "location": "Pier",
+      "shadowSize": 6,
+      "time": "All day",
+      "months": "111100111011",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "giant trevally",
+      "critterpediaOrder": 68,
+      "price": 4500,
+      "location": "Pier",
+      "shadowSize": 5,
+      "time": "All day",
+      "months": "000011111100",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "mahi-mahi",
+      "critterpediaOrder": 69,
+      "price": 6000,
+      "location": "Pier",
+      "shadowSize": 5,
+      "time": "All day",
+      "months": "000011111100",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "ocean sunfish",
+      "critterpediaOrder": 70,
+      "price": 4000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "fin": true,
+      "time": "4 AM - 9 PM",
+      "months": "000000111000",
+      "timeRanges": {
+        "range1": [
+          4,
+          21
+        ]
+      }
+    },
+    {
+      "name": "ray",
+      "critterpediaOrder": 71,
+      "price": 3000,
+      "location": "Sea",
+      "shadowSize": 5,
+      "time": "4 AM - 9 PM",
+      "months": "000000011110",
+      "timeRanges": {
+        "range1": [
+          4,
+          21
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "saw shark",
+      "critterpediaOrder": 72,
+      "price": 12000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "fin": true,
+      "time": "4 PM - 9 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      }
+    },
+    {
+      "name": "hammerhead shark",
+      "critterpediaOrder": 73,
+      "price": 8000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "fin": true,
+      "time": "4 PM - 9 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      }
+    },
+    {
+      "name": "great white shark",
+      "critterpediaOrder": 74,
+      "price": 15000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "fin": true,
+      "time": "4 PM - 9 AM",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      }
+    },
+    {
+      "name": "whale shark",
+      "critterpediaOrder": 75,
+      "price": 13000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "fin": true,
+      "time": "All day",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      }
+    },
+    {
+      "name": "suckerfish",
+      "critterpediaOrder": 76,
+      "price": 1500,
+      "location": "Sea",
+      "shadowSize": 4,
+      "fin": true,
+      "time": "All day",
+      "months": "000001111000",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      }
+    },
+    {
+      "name": "football fish",
+      "critterpediaOrder": 77,
+      "price": 2500,
+      "location": "Sea",
+      "shadowSize": 4,
+      "time": "4 PM - 9 AM",
+      "months": "111000000011",
+      "timeRanges": {
+        "range1": [
+          16,
+          9
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "oarfish",
+      "critterpediaOrder": 78,
+      "price": 9000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "time": "All day",
+      "months": "111110000001",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "barreleye",
+      "critterpediaOrder": 79,
+      "price": 15000,
+      "location": "Sea",
+      "shadowSize": 2,
+      "time": "9 PM - 4 AM",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          21,
+          4
+        ]
+      },
+      "fin": false
+    },
+    {
+      "name": "coelacanth",
+      "critterpediaOrder": 80,
+      "price": 15000,
+      "location": "Sea",
+      "shadowSize": 6,
+      "time": "All day",
+      "months": "111111111111",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "fin": false
+    }
+  ]
+}

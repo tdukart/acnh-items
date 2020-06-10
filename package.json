@@ -1,0 +1,28 @@
+{
+  "name": "acnh-items",
+  "version": "1.0.0",
+  "description": "Database of certain collectible items in Animal Crossing: New Horizons.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublish": "npm run build",
+    "test": "exit 0"
+  },
+  "author": "Todd Dukart <tdukart@mechninja.com>",
+  "license": "BSD-3-Clause",
+  "repository": "https://github.com/tdukart/acnh-items",
+  "dependencies": {
+    "lodash.zipobject": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/lodash.zipobject": "^4.1.6",
+    "rollup": "^1.32.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.2",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5"
+  }
+}

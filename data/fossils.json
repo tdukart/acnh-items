@@ -1,0 +1,356 @@
+{
+  "$schema": "http://schemas.mechanicalninja.com/acnh/fossils.schema.json",
+  "data": [
+    {
+      "name": "acanthostega",
+      "price": 2000
+    },
+    {
+      "name": "amber",
+      "price": 1200
+    },
+    {
+      "name": "ammonite",
+      "price": 1100
+    },
+    {
+      "name": "anomalocaris",
+      "price": 2000
+    },
+    {
+      "name": "archaeopteryx",
+      "price": 1300
+    },
+    {
+      "name": "australopith",
+      "price": 1100
+    },
+    {
+      "name": "coprolite",
+      "price": 1100
+    },
+    {
+      "name": "dinosaur track",
+      "price": 1000
+    },
+    {
+      "name": "dunkleosteus",
+      "price": 3500
+    },
+    {
+      "name": "eusthenopteron",
+      "price": 2000
+    },
+    {
+      "name": "juramaia",
+      "price": 1000
+    },
+    {
+      "name": "myllokunmingia",
+      "price": 1500
+    },
+    {
+      "name": "shark-tooth pattern",
+      "price": 1000
+    },
+    {
+      "name": "trilobite",
+      "price": 1300
+    },
+    {
+      "name": "archelon skull",
+      "price": 4000,
+      "group": "archelon"
+    },
+    {
+      "name": "archelon tail",
+      "price": 3500,
+      "group": "archelon"
+    },
+    {
+      "name": "mammoth skull",
+      "price": 3000,
+      "group": "mammoth"
+    },
+    {
+      "name": "mammoth torso",
+      "price": 2500,
+      "group": "mammoth"
+    },
+    {
+      "name": "right megalo side",
+      "price": 5500,
+      "group": "megalo"
+    },
+    {
+      "name": "left megalo side",
+      "price": 4000,
+      "group": "megalo"
+    },
+    {
+      "name": "ophthalmo skull",
+      "price": 2500,
+      "group": "ophthalmo"
+    },
+    {
+      "name": "ophthalmo torso",
+      "price": 2000,
+      "group": "ophthalmo"
+    },
+    {
+      "name": "pachy skull",
+      "price": 4000,
+      "group": "pachy"
+    },
+    {
+      "name": "pachy tail",
+      "price": 2500,
+      "group": "pachy"
+    },
+    {
+      "name": "sabertooth skull",
+      "price": 2500,
+      "group": "sabertooth"
+    },
+    {
+      "name": "sabertooth tail",
+      "price": 2000,
+      "group": "sabertooth"
+    },
+    {
+      "name": "deinony torso",
+      "price": 3000,
+      "group": "deinony"
+    },
+    {
+      "name": "deinony tail",
+      "price": 2500,
+      "group": "deinony"
+    },
+    {
+      "name": "dimetrodon skull",
+      "price": 5500,
+      "group": "dimetrodon"
+    },
+    {
+      "name": "dimetrodon torso",
+      "price": 5000,
+      "group": "dimetrodon"
+    },
+    {
+      "name": "ankylo skull",
+      "price": 5000,
+      "group": "ankylo"
+    },
+    {
+      "name": "ankylo torso",
+      "price": 3000,
+      "group": "ankylo"
+    },
+    {
+      "name": "ankylo tail",
+      "price": 2500,
+      "group": "ankylo"
+    },
+    {
+      "name": "iguanodon skull",
+      "price": 4000,
+      "group": "iguanodon"
+    },
+    {
+      "name": "iguanodon torso",
+      "price": 3500,
+      "group": "iguanodon"
+    },
+    {
+      "name": "iguanodon tail",
+      "price": 3000,
+      "group": "iguanodon"
+    },
+    {
+      "name": "megacero skull",
+      "price": 4500,
+      "group": "megacero"
+    },
+    {
+      "name": "megacero torso",
+      "price": 3500,
+      "group": "megacero"
+    },
+    {
+      "name": "megacero tail",
+      "price": 3000,
+      "group": "megacero"
+    },
+    {
+      "name": "parasaur skull",
+      "price": 3500,
+      "group": "parasaur"
+    },
+    {
+      "name": "parasaur torso",
+      "price": 3000,
+      "group": "parasaur"
+    },
+    {
+      "name": "parasaur tail",
+      "price": 2500,
+      "group": "parasaur"
+    },
+    {
+      "name": "plesio skull",
+      "price": 4000,
+      "group": "plesio"
+    },
+    {
+      "name": "plesio body",
+      "price": 4500,
+      "group": "plesio"
+    },
+    {
+      "name": "plesio tail",
+      "price": 4500,
+      "group": "plesio"
+    },
+    {
+      "name": "spino skull",
+      "price": 4000,
+      "group": "spino"
+    },
+    {
+      "name": "spino torso",
+      "price": 5000,
+      "group": "spino"
+    },
+    {
+      "name": "spino tail",
+      "price": 4000,
+      "group": "spino"
+    },
+    {
+      "name": "right ptera wing",
+      "price": 4500,
+      "group": "ptera"
+    },
+    {
+      "name": "ptera body",
+      "price": 4000,
+      "group": "ptera"
+    },
+    {
+      "name": "left ptera wing",
+      "price": 4500,
+      "group": "ptera"
+    },
+    {
+      "name": "right quetzal wing",
+      "price": 5000,
+      "group": "quetzal"
+    },
+    {
+      "name": "quetzal torso",
+      "price": 4500,
+      "group": "quetzal"
+    },
+    {
+      "name": "left quetzal wing",
+      "price": 5000,
+      "group": "quetzal"
+    },
+    {
+      "name": "stego skull",
+      "price": 5000,
+      "group": "stego"
+    },
+    {
+      "name": "stego torso",
+      "price": 4500,
+      "group": "stego"
+    },
+    {
+      "name": "stego tail",
+      "price": 4000,
+      "group": "stego"
+    },
+    {
+      "name": "tricera skull",
+      "price": 5500,
+      "group": "tricera"
+    },
+    {
+      "name": "tricera torso",
+      "price": 5000,
+      "group": "tricera"
+    },
+    {
+      "name": "tricera tail",
+      "price": 4500,
+      "group": "tricera"
+    },
+    {
+      "name": "T. rex skull",
+      "price": 6000,
+      "group": "t-rex"
+    },
+    {
+      "name": "T. rex torso",
+      "price": 5500,
+      "group": "t-rex"
+    },
+    {
+      "name": "T. rex tail",
+      "price": 5000,
+      "group": "t-rex"
+    },
+    {
+      "name": "brachio skull",
+      "price": 6000,
+      "group": "brachio"
+    },
+    {
+      "name": "brachio chest",
+      "price": 5500,
+      "group": "brachio"
+    },
+    {
+      "name": "brachio pelvis",
+      "price": 5000,
+      "group": "brachio"
+    },
+    {
+      "name": "brachio tail",
+      "price": 5500,
+      "group": "brachio"
+    },
+    {
+      "name": "diplo skull",
+      "price": 5000,
+      "group": "diplo"
+    },
+    {
+      "name": "diplo neck",
+      "price": 4500,
+      "group": "diplo"
+    },
+    {
+      "name": "diplo chest",
+      "price": 4000,
+      "group": "diplo"
+    },
+    {
+      "name": "diplo pelvis",
+      "price": 4500,
+      "group": "diplo"
+    },
+    {
+      "name": "diplo tail",
+      "price": 5000,
+      "group": "diplo"
+    },
+    {
+      "name": "diplo tail tip",
+      "price": 4000,
+      "group": "diplo"
+    }
+  ]
+}

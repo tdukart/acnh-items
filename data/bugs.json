@@ -1,0 +1,1133 @@
+{
+  "$schema": "http://schemas.mechanicalninja.com/acnh/bugs.schema.json",
+  "data": [
+    {
+      "name": "common butterfly",
+      "critterpediaOrder": 1,
+      "price": 160,
+      "location": "Flying",
+      "time": "4 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          19
+        ]
+      },
+      "months": "111111001111"
+    },
+    {
+      "name": "yellow butterfly",
+      "critterpediaOrder": 2,
+      "price": 160,
+      "location": "Flying",
+      "time": "4 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          19
+        ]
+      },
+      "months": "001111001100"
+    },
+    {
+      "name": "tiger butterfly",
+      "critterpediaOrder": 3,
+      "price": 240,
+      "location": "Flying",
+      "time": "4 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          19
+        ]
+      },
+      "months": "001111111000"
+    },
+    {
+      "name": "peacock butterfly",
+      "critterpediaOrder": 4,
+      "price": 2500,
+      "location": "Flying by Hybrid Flowers",
+      "time": "4 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          19
+        ]
+      },
+      "months": "001111000000"
+    },
+    {
+      "name": "common bluebottle",
+      "critterpediaOrder": 5,
+      "price": 300,
+      "location": "Flying",
+      "time": "4 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          19
+        ]
+      },
+      "months": "000111110000"
+    },
+    {
+      "name": "paper kite butterfly",
+      "critterpediaOrder": 6,
+      "price": 1000,
+      "location": "Flying",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "great purple emperor",
+      "critterpediaOrder": 7,
+      "price": 3000,
+      "location": "Flying",
+      "time": "4 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          19
+        ]
+      },
+      "months": "000011110000"
+    },
+    {
+      "name": "monarch butterfly",
+      "critterpediaOrder": 8,
+      "price": 140,
+      "location": "Flying",
+      "time": "4 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          17
+        ]
+      },
+      "months": "000000001110"
+    },
+    {
+      "name": "emperor butterfly",
+      "critterpediaOrder": 9,
+      "price": 4000,
+      "location": "Flying",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "111001111001"
+    },
+    {
+      "name": "agrias butterfly",
+      "critterpediaOrder": 10,
+      "price": 3000,
+      "location": "Flying",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000111111000"
+    },
+    {
+      "name": "Rajah Brooke's birdwing",
+      "critterpediaOrder": 11,
+      "price": 2500,
+      "location": "Flying",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "110111111001"
+    },
+    {
+      "name": "Queen Alexandra's birdwing",
+      "critterpediaOrder": 12,
+      "price": 4000,
+      "location": "Flying",
+      "time": "8 AM - 4 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          16
+        ]
+      },
+      "months": "000011111000"
+    },
+    {
+      "name": "moth",
+      "critterpediaOrder": 13,
+      "price": 130,
+      "location": "Flying by Light",
+      "time": "7 PM - 4 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          4
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "Atlas moth",
+      "critterpediaOrder": 14,
+      "price": 3000,
+      "location": "On Trees",
+      "time": "7 PM - 4 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          4
+        ]
+      },
+      "months": "000111111000"
+    },
+    {
+      "name": "Madagascan sunset moth",
+      "critterpediaOrder": 15,
+      "price": 2500,
+      "location": "Flying",
+      "time": "8 AM - 4 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          16
+        ]
+      },
+      "months": "000111111000"
+    },
+    {
+      "name": "long locust",
+      "critterpediaOrder": 16,
+      "price": 200,
+      "location": "On the Ground",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "000111111110"
+    },
+    {
+      "name": "migratory locust",
+      "critterpediaOrder": 17,
+      "price": 600,
+      "location": "On the Ground",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "000000011110"
+    },
+    {
+      "name": "rice grasshopper",
+      "critterpediaOrder": 18,
+      "price": 160,
+      "location": "On the Ground",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "000000011110"
+    },
+    {
+      "name": "grasshopper",
+      "critterpediaOrder": 19,
+      "price": 160,
+      "location": "On the Ground",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000000111000"
+    },
+    {
+      "name": "cricket",
+      "critterpediaOrder": 20,
+      "price": 130,
+      "location": "On the Ground",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000001110"
+    },
+    {
+      "name": "bell cricket",
+      "critterpediaOrder": 21,
+      "price": 430,
+      "location": "On the Ground",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000001100"
+    },
+    {
+      "name": "mantis",
+      "critterpediaOrder": 22,
+      "price": 430,
+      "location": "On Flowers",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "001111111110"
+    },
+    {
+      "name": "orchid mantis",
+      "critterpediaOrder": 23,
+      "price": 2400,
+      "location": "On Flowers (White)",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "001111111110"
+    },
+    {
+      "name": "honeybee",
+      "critterpediaOrder": 24,
+      "price": 200,
+      "location": "Flying",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "001111100000"
+    },
+    {
+      "name": "wasp",
+      "critterpediaOrder": 25,
+      "price": 2500,
+      "location": "Shaking Trees",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "brown cicada",
+      "critterpediaOrder": 26,
+      "price": 250,
+      "location": "On Trees",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "robust cicada",
+      "critterpediaOrder": 27,
+      "price": 300,
+      "location": "On Trees",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "giant cicada",
+      "critterpediaOrder": 28,
+      "price": 500,
+      "location": "On Trees",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "walker cicada",
+      "critterpediaOrder": 29,
+      "price": 400,
+      "location": "On Trees",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000000011000"
+    },
+    {
+      "name": "evening cicada",
+      "critterpediaOrder": 30,
+      "price": 550,
+      "location": "On Trees",
+      "time": "4 AM - 8 AM & 4 PM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          8
+        ],
+        "range2": [
+          16,
+          19
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "cicada shell",
+      "critterpediaOrder": 31,
+      "price": 10,
+      "location": "On Trees",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "red dragonfly",
+      "critterpediaOrder": 32,
+      "price": 180,
+      "location": "Flying",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "000000001100"
+    },
+    {
+      "name": "darner dragonfly",
+      "critterpediaOrder": 33,
+      "price": 230,
+      "location": "Flying",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000111111100"
+    },
+    {
+      "name": "banded dragonfly",
+      "critterpediaOrder": 34,
+      "price": 4500,
+      "location": "Flying",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "000011111100"
+    },
+    {
+      "name": "damselfly",
+      "critterpediaOrder": 35,
+      "price": 500,
+      "location": "Flying",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "110000000011"
+    },
+    {
+      "name": "firefly",
+      "critterpediaOrder": 36,
+      "price": 300,
+      "location": "Flying",
+      "time": "7 PM - 4 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          4
+        ]
+      },
+      "months": "000001000000"
+    },
+    {
+      "name": "mole cricket",
+      "critterpediaOrder": 37,
+      "price": 500,
+      "location": "Underground",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111110000011"
+    },
+    {
+      "name": "pondskater",
+      "critterpediaOrder": 38,
+      "price": 130,
+      "location": "On Ponds and Rivers",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "000011111000"
+    },
+    {
+      "name": "diving beetle",
+      "critterpediaOrder": 39,
+      "price": 800,
+      "location": "On Ponds and Rivers",
+      "time": "8 AM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          19
+        ]
+      },
+      "months": "000011111000"
+    },
+    {
+      "name": "giant water bug",
+      "critterpediaOrder": 40,
+      "price": 2000,
+      "location": "On Ponds and Rivers",
+      "time": "7 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          8
+        ]
+      },
+      "months": "000111111000"
+    },
+    {
+      "name": "stinkbug",
+      "critterpediaOrder": 41,
+      "price": 120,
+      "location": "On Flowers",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "001111111100"
+    },
+    {
+      "name": "man-faced stink bug",
+      "critterpediaOrder": 42,
+      "price": 1000,
+      "location": "On Flowers",
+      "time": "7 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          8
+        ]
+      },
+      "months": "001111111100"
+    },
+    {
+      "name": "ladybug",
+      "critterpediaOrder": 43,
+      "price": 200,
+      "location": "On Flowers",
+      "time": "8 AM - 5 PM",
+      "timeRanges": {
+        "range1": [
+          8,
+          17
+        ]
+      },
+      "months": "001111000100"
+    },
+    {
+      "name": "tiger beetle",
+      "critterpediaOrder": 44,
+      "price": 1500,
+      "location": "On the Ground",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "011111111100"
+    },
+    {
+      "name": "jewel beetle",
+      "critterpediaOrder": 45,
+      "price": 2400,
+      "location": "On Tree Stumps",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000111110000"
+    },
+    {
+      "name": "violin beetle",
+      "critterpediaOrder": 46,
+      "price": 450,
+      "location": "On Tree Stumps",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000011001110"
+    },
+    {
+      "name": "citrus long-horned beetle",
+      "critterpediaOrder": 47,
+      "price": 350,
+      "location": "On Tree Stumps",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "rosalia batesi beetle",
+      "critterpediaOrder": 48,
+      "price": 3000,
+      "location": "On Tree Stumps",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000011111000"
+    },
+    {
+      "name": "blue weevil beetle",
+      "critterpediaOrder": 49,
+      "price": 800,
+      "location": "On Trees (Coconut?)",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "dung beetle",
+      "critterpediaOrder": 50,
+      "price": 3000,
+      "location": "On the Ground (rolling snowballs)",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "110000000001"
+    },
+    {
+      "name": "earth-boring dung beetle",
+      "critterpediaOrder": 51,
+      "price": 300,
+      "location": "On the Ground",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000000111000"
+    },
+    {
+      "name": "scarab beetle",
+      "critterpediaOrder": 52,
+      "price": 10000,
+      "location": "On Trees",
+      "time": "11 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          23,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "drone beetle",
+      "critterpediaOrder": 53,
+      "price": 200,
+      "location": "On Trees",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000001110000"
+    },
+    {
+      "name": "goliath beetle",
+      "critterpediaOrder": 54,
+      "price": 8000,
+      "location": "On Trees (Coconut)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000001111000"
+    },
+    {
+      "name": "saw stag",
+      "critterpediaOrder": 55,
+      "price": 2000,
+      "location": "On Trees",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "miyama stag",
+      "critterpediaOrder": 56,
+      "price": 1000,
+      "location": "On Trees",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "giant stag",
+      "critterpediaOrder": 57,
+      "price": 10000,
+      "location": "On Trees",
+      "time": "11 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          23,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "rainbow stag",
+      "critterpediaOrder": 58,
+      "price": 6000,
+      "location": "On Trees",
+      "time": "7 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          8
+        ]
+      },
+      "months": "000001111000"
+    },
+    {
+      "name": "cyclommatus stag",
+      "critterpediaOrder": 59,
+      "price": 8000,
+      "location": "On Trees (Coconut)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "golden stag",
+      "critterpediaOrder": 60,
+      "price": 12000,
+      "location": "On Trees (Coconut)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "giraffe stag",
+      "critterpediaOrder": 61,
+      "price": 12000,
+      "location": "On Trees (Coconut?)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "horned dynastid",
+      "critterpediaOrder": 62,
+      "price": 1350,
+      "location": "On Trees",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "horned atlas",
+      "critterpediaOrder": 63,
+      "price": 8000,
+      "location": "On Trees (Coconut)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "horned elephant",
+      "critterpediaOrder": 64,
+      "price": 8000,
+      "location": "On Trees (Coconut)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "horned hercules",
+      "critterpediaOrder": 65,
+      "price": 12000,
+      "location": "On Trees (Coconut)",
+      "time": "5 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          8
+        ]
+      },
+      "months": "000000110000"
+    },
+    {
+      "name": "walking stick",
+      "critterpediaOrder": 66,
+      "price": 600,
+      "location": "On Trees",
+      "time": "4 AM - 8 AM & 5 PM - 7 PM",
+      "timeRanges": {
+        "range1": [
+          4,
+          8
+        ],
+        "range2": [
+          17,
+          19
+        ]
+      },
+      "months": "000000111110"
+    },
+    {
+      "name": "walking leaf",
+      "critterpediaOrder": 67,
+      "price": 600,
+      "location": "Under Trees Disguised as Leafs",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000000111000"
+    },
+    {
+      "name": "bagworm",
+      "critterpediaOrder": 68,
+      "price": 600,
+      "location": "Shaking Trees",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "ant",
+      "critterpediaOrder": 69,
+      "price": 80,
+      "location": "On rotten food",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "hermit crab",
+      "critterpediaOrder": 70,
+      "price": 1000,
+      "location": "Beach disguised as Shells",
+      "time": "7 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          8
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "wharf roach",
+      "critterpediaOrder": 71,
+      "price": 200,
+      "location": "On Beach Rocks",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "fly",
+      "critterpediaOrder": 72,
+      "price": 60,
+      "location": "On Trash Items",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "mosquito",
+      "critterpediaOrder": 73,
+      "price": 130,
+      "location": "Flying",
+      "time": "5 PM - 4 AM",
+      "timeRanges": {
+        "range1": [
+          17,
+          4
+        ]
+      },
+      "months": "000001111000"
+    },
+    {
+      "name": "flea",
+      "critterpediaOrder": 74,
+      "price": 70,
+      "location": "Villager's Heads",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "000111111110"
+    },
+    {
+      "name": "snail",
+      "critterpediaOrder": 75,
+      "price": 250,
+      "location": "On Rocks (Rain)",
+      "time": "All day",
+      "timeRanges": {
+        "range1": [
+          0,
+          24
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "pill bug",
+      "critterpediaOrder": 76,
+      "price": 250,
+      "location": "Hitting Rocks",
+      "time": "11 PM - 4 PM",
+      "timeRanges": {
+        "range1": [
+          23,
+          16
+        ]
+      },
+      "months": "111111001111"
+    },
+    {
+      "name": "centipede",
+      "critterpediaOrder": 77,
+      "price": 300,
+      "location": "Hitting Rocks",
+      "time": "4 PM - 11 PM",
+      "timeRanges": {
+        "range1": [
+          16,
+          23
+        ]
+      },
+      "months": "111111001111"
+    },
+    {
+      "name": "spider",
+      "critterpediaOrder": 78,
+      "price": 480,
+      "location": "Shaking Trees",
+      "time": "7 PM - 8 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          8
+        ]
+      },
+      "months": "111111111111"
+    },
+    {
+      "name": "tarantula",
+      "critterpediaOrder": 79,
+      "price": 8000,
+      "location": "On the Ground",
+      "time": "7 PM - 4 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          4
+        ]
+      },
+      "months": "111100000011"
+    },
+    {
+      "name": "scorpion",
+      "critterpediaOrder": 80,
+      "price": 8000,
+      "location": "On the Ground",
+      "time": "7 PM - 4 AM",
+      "timeRanges": {
+        "range1": [
+          19,
+          4
+        ]
+      },
+      "months": "000011111100"
+    }
+  ]
+}
