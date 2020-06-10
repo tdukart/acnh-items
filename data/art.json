@@ -1,0 +1,193 @@
+{
+  "$schema": "http://schemas.mechanicalninja.com/acnh/art.schema.json",
+  "data": [
+    {
+      "name": "Academic painting",
+      "forgeryDescription": "The forged painting has a coffee stain on the top right whereas the genuine does not. The forgery also has a strange key taped to the back."
+    },
+    {
+      "name": "Amazing painting",
+      "forgeryDescription": "In the forged painting, the man with the red sash is not wearing a hat; whereas in the genuine painting, he is."
+    },
+    {
+      "name": "Basic painting",
+      "forgeryDescription": "In the forged painting, the boy has bangs covering his entire forehead; whereas in the genuine one, there is less hair covering his forehead."
+    },
+    {
+      "name": "Calm painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Common painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Detailed painting",
+      "forgeryDescription": "The forged painting has purple flowers, whereas the genuine one has blue flowers."
+    },
+    {
+      "name": "Dynamic painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Famous painting",
+      "forgeryDescription": "In the forged painting, the woman has raised eyebrows, which makes her look angry, whereas in the genuine one, she has no (or very faint) eyebrows, which makes her look calm."
+    },
+    {
+      "name": "Flowery painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Glowing painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Graceful painting",
+      "forgeryDescription": "The forged painting has the lady taking up almost the entire painting, but the lady takes up only 2/3 of the painting instead. The forgery also looks to the left during the evening and has a shadowy figure on the back."
+    },
+    {
+      "name": "Jolly painting",
+      "forgeryDescription": "The forged painting is missing the artichoke bud sticking out of the chest, whereas in the genuine one it is present."
+    },
+    {
+      "name": "Moody painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Moving painting",
+      "forgeryDescription": "There are no trees in the forged painting, whereas the genuine one has them."
+    },
+    {
+      "name": "Mysterious painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Nice painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Perfect painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Proper painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Quaint painting",
+      "forgeryDescription": "In the forged painting, there is lots of milk pouring out of the container; whereas in the genuine one, there is only a small amount."
+    },
+    {
+      "name": "Scary painting",
+      "forgeryDescription": "In the forged painting, the man's eyebrows are pointing up in the middle, making him seem concerned, while they point down in the middle in the authentic painting. During the evening, the man smiles in the forgery."
+    },
+    {
+      "name": "Scenic painting",
+      "forgeryDescription": "The forged painting has one person on the hill, whereas the genuine painting has three people and more dogs."
+    },
+    {
+      "name": "Serene painting",
+      "forgeryDescription": "In the forged painting, the woman is holding a gray ferret, whereas in the genuine one, it is a white ermine."
+    },
+    {
+      "name": "Sinking painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Solemn painting",
+      "forgeryDescription": "In the forged painting, the man in the far back is pointing upwards, whereas in the genuine one, he is touching the wall."
+    },
+    {
+      "name": "Twinkling painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Warm painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Wild painting (left half)",
+      "forgeryDescription": "The forged painting has a dark figure, whereas the genuine one has a light figure."
+    },
+    {
+      "name": "Wild painting (right half)",
+      "forgeryDescription": "The forged painting has a light figure, whereas the genuine one has a dark figure."
+    },
+    {
+      "name": "Wistful painting",
+      "forgeryDescription": "In the forged painting, the woman is wearing a star-shaped earring; whereas in the genuine one, the earring is sphere-shaped. The woman also closes her eyes during the evening and reopens them the following day."
+    },
+    {
+      "name": "Worthy painting",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This painting is always authentic."
+    },
+    {
+      "name": "Ancient statue",
+      "forgeryDescription": "The forged statue has antennae, whereas the genuine statue does not. The eyes on the forgery glow blue during the evening and can float for a short duration when interacted with."
+    },
+    {
+      "name": "Beautiful statue",
+      "forgeryDescription": "The forged statue has a set of necklaces, whereas the genuine statue does not."
+    },
+    {
+      "name": "Familiar statue",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This statue is always authentic."
+    },
+    {
+      "name": "Gallant statue",
+      "forgeryDescription": "The forged statue holds a book in its right hand, whereas the genuine statue does not."
+    },
+    {
+      "name": "Great statue",
+      "alwaysAuthentic": true,
+      "forgeryDescription": "This statue is always authentic."
+    },
+    {
+      "name": "Informative statue",
+      "forgeryDescription": "The forged statue is blue, whereas the genuine one is grey. The forgery also glows during the evening."
+    },
+    {
+      "name": "Motherly statue",
+      "forgeryDescription": "The forged statue has its tongue sticking out, whereas the genuine one does not."
+    },
+    {
+      "name": "Mystic statue",
+      "forgeryDescription": "The forged statue has an earring, whereas the genuine statue does not."
+    },
+    {
+      "name": "Robust statue",
+      "forgeryDescription": "The forged statue is wearing a watch on its right arm, whereas the genuine statue is not."
+    },
+    {
+      "name": "Rock-head statue",
+      "forgeryDescription": "The forged statue is smiling, whereas the genuine one is not."
+    },
+    {
+      "name": "Tremendous statue",
+      "forgeryDescription": "The forged statue has a lid with a handle in the middle, whereas the genuine only has the handles on the side."
+    },
+    {
+      "name": "Valiant statue",
+      "forgeryDescription": "The forged statue is mirrored, with the left leg in front, whereas the genuine statue has the right leg in front."
+    },
+    {
+      "name": "Warrior statue",
+      "forgeryDescription": "The forged statue is holding a shovel, whereas the genuine one is not."
+    }
+  ]
+}

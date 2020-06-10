@@ -40,3 +40,33 @@ export type FossilGroup = string;
  * If true, the song can only be obtained by asking K.K. Slider for it directly.
  */
 export type SecretSong = boolean;
+export type Gender = 'male' | 'female';
+/**
+ * The villager's personality type, in U.S. English.
+ */
+export type Personality = string;
+/**
+ * The villager's species, in U.S. English.
+ */
+export type Species = string;
+
+/**
+ * The villager's birthday.
+ */
+export type Birthday = { month: number, day: number };
+/**
+ * The villager's default catchphrase, in U.S. English.
+ */
+export type Catchphrase = string;
+/**
+ * The villager's hobbies, in U.S. English.
+ */
+export type Hobbies = string;
+/**
+ * If the art piece is always authentic (i.e. Redd does not sell a forgery).
+ */
+export type AlwaysAuthentic = boolean;
+/**
+ * A human-readable guide to tell Redd's forgeries from real art.
+ */
+export type ForgeryDescription = string;

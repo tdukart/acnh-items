@@ -1,0 +1,4697 @@
+{
+  "$schema": "http://schemas.mechanicalninja.com/acnh/villagers.schema.json",
+  "data": [
+    {
+      "name": "Admiral",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 1,
+        "day": 27
+      },
+      "catchphrase": "aye aye",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Agent S",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 7,
+        "day": 2
+      },
+      "catchphrase": "sidekick",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Agnes",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 4,
+        "day": 21
+      },
+      "catchphrase": "snuffle",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Al",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 10,
+        "day": 18
+      },
+      "catchphrase": "Ayyeeee",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Alfonso",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Alligator",
+      "birthday": {
+        "month": 6,
+        "day": 9
+      },
+      "catchphrase": "it'sa me",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Alice",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Koala",
+      "birthday": {
+        "month": 8,
+        "day": 19
+      },
+      "catchphrase": "guvnor",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Alli",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Alligator",
+      "birthday": {
+        "month": 11,
+        "day": 8
+      },
+      "catchphrase": "graaagh",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Amelia",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Eagle",
+      "birthday": {
+        "month": 11,
+        "day": 19
+      },
+      "catchphrase": "cuz",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Anabelle",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Anteater",
+      "birthday": {
+        "month": 2,
+        "day": 16
+      },
+      "catchphrase": "snorty",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Anchovy",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 3,
+        "day": 4
+      },
+      "catchphrase": "chuurp",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Angus",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bull",
+      "birthday": {
+        "month": 4,
+        "day": 30
+      },
+      "catchphrase": "macmoo",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Anicotti",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 2,
+        "day": 24
+      },
+      "catchphrase": "cannoli",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Ankha",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 9,
+        "day": 22
+      },
+      "catchphrase": "me meow",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Annalisa",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Anteater",
+      "birthday": {
+        "month": 2,
+        "day": 6
+      },
+      "catchphrase": "gumdrop",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Annalise",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 12,
+        "day": 2
+      },
+      "catchphrase": "nipper",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Antonio",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Anteater",
+      "birthday": {
+        "month": 10,
+        "day": 20
+      },
+      "catchphrase": "honk",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Apollo",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 7,
+        "day": 4
+      },
+      "catchphrase": "pah",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Apple",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Hamster",
+      "birthday": {
+        "month": 9,
+        "day": 24
+      },
+      "catchphrase": "cheekers",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Astrid",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 9,
+        "day": 8
+      },
+      "catchphrase": "my pet",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Audie",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Wolf",
+      "birthday": {
+        "month": 8,
+        "day": 31
+      },
+      "catchphrase": "Foxtrot",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Aurora",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Penguin",
+      "birthday": {
+        "month": 1,
+        "day": 27
+      },
+      "catchphrase": "b-b-baby",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Ava",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Chicken",
+      "birthday": {
+        "month": 4,
+        "day": 28
+      },
+      "catchphrase": "beaker",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Avery",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 2,
+        "day": 22
+      },
+      "catchphrase": "skree-haw",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Axel",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Elephant",
+      "birthday": {
+        "month": 3,
+        "day": 23
+      },
+      "catchphrase": "WHONK",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Baabara",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 3,
+        "day": 28
+      },
+      "catchphrase": "daahling",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Bam",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Deer",
+      "birthday": {
+        "month": 11,
+        "day": 7
+      },
+      "catchphrase": "kablang",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Bangle",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Tiger",
+      "birthday": {
+        "month": 8,
+        "day": 27
+      },
+      "catchphrase": "growf",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Barold",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 3,
+        "day": 2
+      },
+      "catchphrase": "cubby",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Bea",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 10,
+        "day": 15
+      },
+      "catchphrase": "bingo",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Beardo",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 9,
+        "day": 27
+      },
+      "catchphrase": "whiskers",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Beau",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Deer",
+      "birthday": {
+        "month": 4,
+        "day": 5
+      },
+      "catchphrase": "saltlick",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Becky",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Chicken",
+      "birthday": {
+        "month": 12,
+        "day": 9
+      },
+      "catchphrase": "chicklet",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Bella",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 12,
+        "day": 28
+      },
+      "catchphrase": "eeks",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Benedict",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Chicken",
+      "birthday": {
+        "month": 10,
+        "day": 10
+      },
+      "catchphrase": "uh-hoo",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Benjamin",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 8,
+        "day": 3
+      },
+      "catchphrase": "alrighty",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Bertha",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Hippo",
+      "birthday": {
+        "month": 4,
+        "day": 25
+      },
+      "catchphrase": "bloop",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Bettina",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 6,
+        "day": 12
+      },
+      "catchphrase": "eekers",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Bianca",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Tiger",
+      "birthday": {
+        "month": 12,
+        "day": 13
+      },
+      "catchphrase": "glimmer",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Biff",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Hippo",
+      "birthday": {
+        "month": 3,
+        "day": 29
+      },
+      "catchphrase": "squirt",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Big Top",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Elephant",
+      "birthday": {
+        "month": 10,
+        "day": 3
+      },
+      "catchphrase": "villain",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Bill",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 2,
+        "day": 1
+      },
+      "catchphrase": "quacko",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Billy",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Goat",
+      "birthday": {
+        "month": 3,
+        "day": 25
+      },
+      "catchphrase": "dagnaabit",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Biskit",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 5,
+        "day": 13
+      },
+      "catchphrase": "dog",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Bitty",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Hippo",
+      "birthday": {
+        "month": 10,
+        "day": 6
+      },
+      "catchphrase": "my dear",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Blaire",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 7,
+        "day": 3
+      },
+      "catchphrase": "nutlet",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Blanche",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 12,
+        "day": 21
+      },
+      "catchphrase": "quite so",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Bluebear",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 6,
+        "day": 24
+      },
+      "catchphrase": "peach",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Bob",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 1,
+        "day": 1
+      },
+      "catchphrase": "pthhhpth",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Bonbon",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 3,
+        "day": 3
+      },
+      "catchphrase": "deelish",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Bones",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 8,
+        "day": 4
+      },
+      "catchphrase": "yip yip",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Boomer",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 2,
+        "day": 7
+      },
+      "catchphrase": "human",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Boone",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 9,
+        "day": 12
+      },
+      "catchphrase": "baboom",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Boots",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Alligator",
+      "birthday": {
+        "month": 8,
+        "day": 7
+      },
+      "catchphrase": "munchie",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Boris",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 11,
+        "day": 6
+      },
+      "catchphrase": "schnort",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Boyd",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 10,
+        "day": 1
+      },
+      "catchphrase": "uh-oh",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Bree",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 7,
+        "day": 7
+      },
+      "catchphrase": "cheeseball",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Broccolo",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 6,
+        "day": 30
+      },
+      "catchphrase": "eat it",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Broffina",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Chicken",
+      "birthday": {
+        "month": 10,
+        "day": 24
+      },
+      "catchphrase": "cluckadoo",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Bruce",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Deer",
+      "birthday": {
+        "month": 5,
+        "day": 26
+      },
+      "catchphrase": "gruff",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Bubbles",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Hippo",
+      "birthday": {
+        "month": 9,
+        "day": 18
+      },
+      "catchphrase": "hipster",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Buck",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 4,
+        "day": 4
+      },
+      "catchphrase": "pardner",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Bud",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 8,
+        "day": 8
+      },
+      "catchphrase": "shredded",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Bunnie",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 5,
+        "day": 9
+      },
+      "catchphrase": "tee-hee",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Butch",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 11,
+        "day": 1
+      },
+      "catchphrase": "ROOOOOWF",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Buzz",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 12,
+        "day": 7
+      },
+      "catchphrase": "captain",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cally",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 9,
+        "day": 4
+      },
+      "catchphrase": "WHEE",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Camofrog",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 6,
+        "day": 5
+      },
+      "catchphrase": "ten-hut",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Canberra",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Koala",
+      "birthday": {
+        "month": 5,
+        "day": 14
+      },
+      "catchphrase": "nuh uh",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Candi",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 4,
+        "day": 13
+      },
+      "catchphrase": "sweetie",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Carmen",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 1,
+        "day": 6
+      },
+      "catchphrase": "nougat",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Caroline",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 7,
+        "day": 15
+      },
+      "catchphrase": "hulaaaa",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Carrie",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 12,
+        "day": 5
+      },
+      "catchphrase": "little one",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cashmere",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 4,
+        "day": 2
+      },
+      "catchphrase": "baaaby",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Celia",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Eagle",
+      "birthday": {
+        "month": 3,
+        "day": 25
+      },
+      "catchphrase": "feathers",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cesar",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 9,
+        "day": 6
+      },
+      "catchphrase": "highness",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Chadder",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 12,
+        "day": 15
+      },
+      "catchphrase": "fromage",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Charlise",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Bear",
+      "birthday": {
+        "month": 4,
+        "day": 17
+      },
+      "catchphrase": "urgh",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Cheri",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 3,
+        "day": 17
+      },
+      "catchphrase": "tralala",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Cherry",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 5,
+        "day": 11
+      },
+      "catchphrase": "what what",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Chester",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 8,
+        "day": 6
+      },
+      "catchphrase": "rookie",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Chevre",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Goat",
+      "birthday": {
+        "month": 3,
+        "day": 6
+      },
+      "catchphrase": "la baa",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Chief",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Wolf",
+      "birthday": {
+        "month": 12,
+        "day": 19
+      },
+      "catchphrase": "harrumph",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Chops",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 10,
+        "day": 13
+      },
+      "catchphrase": "zoink",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Chow",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 7,
+        "day": 22
+      },
+      "catchphrase": "aiya",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Chrissy",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 8,
+        "day": 28
+      },
+      "catchphrase": "sparkles",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Claude",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 12,
+        "day": 3
+      },
+      "catchphrase": "hopalong",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Claudia",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Tiger",
+      "birthday": {
+        "month": 11,
+        "day": 22
+      },
+      "catchphrase": "ooh la la",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Clay",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Hamster",
+      "birthday": {
+        "month": 10,
+        "day": 19
+      },
+      "catchphrase": "thump",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cleo",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 2,
+        "day": 9
+      },
+      "catchphrase": "sugar",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Clyde",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 5,
+        "day": 1
+      },
+      "catchphrase": "clip-clawp",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Coach",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Bull",
+      "birthday": {
+        "month": 4,
+        "day": 29
+      },
+      "catchphrase": "stubble",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Cobb",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 10,
+        "day": 7
+      },
+      "catchphrase": "hot dog",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Coco",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 3,
+        "day": 1
+      },
+      "catchphrase": "doyoing",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Cole",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 8,
+        "day": 10
+      },
+      "catchphrase": "duuude",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Colton",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 5,
+        "day": 22
+      },
+      "catchphrase": "check it",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cookie",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 6,
+        "day": 18
+      },
+      "catchphrase": "arfer",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Cousteau",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 12,
+        "day": 17
+      },
+      "catchphrase": "oui oui",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Cranston",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 9,
+        "day": 23
+      },
+      "catchphrase": "sweatband",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Croque",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 7,
+        "day": 18
+      },
+      "catchphrase": "as if",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cube",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 1,
+        "day": 29
+      },
+      "catchphrase": "brainfreeze",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Curlos",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Sheep",
+      "birthday": {
+        "month": 5,
+        "day": 8
+      },
+      "catchphrase": "shearly",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Curly",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 7,
+        "day": 26
+      },
+      "catchphrase": "nyoink",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Curt",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 7,
+        "day": 1
+      },
+      "catchphrase": "fuzzball",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Cyd",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Elephant",
+      "birthday": {
+        "month": 6,
+        "day": 9
+      },
+      "catchphrase": "rockin'",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Cyrano",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Anteater",
+      "birthday": {
+        "month": 3,
+        "day": 9
+      },
+      "catchphrase": "ah-CHOO",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Daisy",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 11,
+        "day": 16
+      },
+      "catchphrase": "bow-WOW",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Deena",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 6,
+        "day": 27
+      },
+      "catchphrase": "woowoo",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Deirdre",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Deer",
+      "birthday": {
+        "month": 5,
+        "day": 4
+      },
+      "catchphrase": "whatevs",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Del",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Alligator",
+      "birthday": {
+        "month": 5,
+        "day": 27
+      },
+      "catchphrase": "gronk",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Deli",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Monkey",
+      "birthday": {
+        "month": 5,
+        "day": 24
+      },
+      "catchphrase": "monch",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Derwin",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 5,
+        "day": 25
+      },
+      "catchphrase": "derrrrr",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Diana",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Deer",
+      "birthday": {
+        "month": 1,
+        "day": 4
+      },
+      "catchphrase": "no doy",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Diva",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Frog",
+      "birthday": {
+        "month": 10,
+        "day": 2
+      },
+      "catchphrase": "ya know",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Dizzy",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Elephant",
+      "birthday": {
+        "month": 1,
+        "day": 14
+      },
+      "catchphrase": "woo-oo",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Dobie",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Wolf",
+      "birthday": {
+        "month": 2,
+        "day": 17
+      },
+      "catchphrase": "ohmmm",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Doc",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 3,
+        "day": 16
+      },
+      "catchphrase": "ol' bunny",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Dom",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Sheep",
+      "birthday": {
+        "month": 3,
+        "day": 18
+      },
+      "catchphrase": "indeedaroo",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Dora",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 2,
+        "day": 18
+      },
+      "catchphrase": "squeaky",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Dotty",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 3,
+        "day": 14
+      },
+      "catchphrase": "wee one",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Drago",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Alligator",
+      "birthday": {
+        "month": 2,
+        "day": 12
+      },
+      "catchphrase": "burrrn",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Drake",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 6,
+        "day": 25
+      },
+      "catchphrase": "quacko",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Drift",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 10,
+        "day": 9
+      },
+      "catchphrase": "brah",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Ed",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 9,
+        "day": 16
+      },
+      "catchphrase": "greenhorn",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Egbert",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Chicken",
+      "birthday": {
+        "month": 10,
+        "day": 14
+      },
+      "catchphrase": "doodle-duh",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Elise",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Monkey",
+      "birthday": {
+        "month": 3,
+        "day": 21
+      },
+      "catchphrase": "puh-lease",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Ellie",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Elephant",
+      "birthday": {
+        "month": 5,
+        "day": 12
+      },
+      "catchphrase": "li'l one",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Elmer",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 10,
+        "day": 5
+      },
+      "catchphrase": "tenderfoot",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Eloise",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Elephant",
+      "birthday": {
+        "month": 12,
+        "day": 8
+      },
+      "catchphrase": "tooooot",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Elvis",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 7,
+        "day": 23
+      },
+      "catchphrase": "unh-hunh",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Erik",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Deer",
+      "birthday": {
+        "month": 7,
+        "day": 27
+      },
+      "catchphrase": "chow down",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Eugene",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Koala",
+      "birthday": {
+        "month": 10,
+        "day": 26
+      },
+      "catchphrase": "yeah buddy",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Eunice",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 4,
+        "day": 3
+      },
+      "catchphrase": "lambchop",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Fang",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Wolf",
+      "birthday": {
+        "month": 12,
+        "day": 18
+      },
+      "catchphrase": "cha-chomp",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Fauna",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Deer",
+      "birthday": {
+        "month": 3,
+        "day": 26
+      },
+      "catchphrase": "dearie",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Felicity",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 3,
+        "day": 30
+      },
+      "catchphrase": "mimimi",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Filbert",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 6,
+        "day": 3
+      },
+      "catchphrase": "bucko",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Flip",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Monkey",
+      "birthday": {
+        "month": 11,
+        "day": 21
+      },
+      "catchphrase": "rerack",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Flo",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Penguin",
+      "birthday": {
+        "month": 9,
+        "day": 2
+      },
+      "catchphrase": "cha",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Flora",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 2,
+        "day": 9
+      },
+      "catchphrase": "pinky",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Flurry",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Hamster",
+      "birthday": {
+        "month": 1,
+        "day": 30
+      },
+      "catchphrase": "powderpuff",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Francine",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 1,
+        "day": 22
+      },
+      "catchphrase": "karat",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Frank",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 7,
+        "day": 30
+      },
+      "catchphrase": "crushy",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Freckles",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 2,
+        "day": 19
+      },
+      "catchphrase": "ducky",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Freya",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Wolf",
+      "birthday": {
+        "month": 12,
+        "day": 14
+      },
+      "catchphrase": "uff da",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Friga",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Penguin",
+      "birthday": {
+        "month": 10,
+        "day": 16
+      },
+      "catchphrase": "brrmph",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Frita",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 7,
+        "day": 16
+      },
+      "catchphrase": "oh ewe",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Frobert",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 2,
+        "day": 8
+      },
+      "catchphrase": "fribbit",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Fuchsia",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Deer",
+      "birthday": {
+        "month": 9,
+        "day": 19
+      },
+      "catchphrase": "precious",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Gabi",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 12,
+        "day": 16
+      },
+      "catchphrase": "honeybun",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Gala",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 3,
+        "day": 5
+      },
+      "catchphrase": "snortie",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Gaston",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 10,
+        "day": 28
+      },
+      "catchphrase": "mon chou",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Gayle",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Alligator",
+      "birthday": {
+        "month": 5,
+        "day": 17
+      },
+      "catchphrase": "snacky",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Genji",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 1,
+        "day": 21
+      },
+      "catchphrase": "mochi",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Gigi",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Frog",
+      "birthday": {
+        "month": 8,
+        "day": 11
+      },
+      "catchphrase": "ribette",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Gladys",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 1,
+        "day": 15
+      },
+      "catchphrase": "stretch",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Gloria",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 8,
+        "day": 12
+      },
+      "catchphrase": "quacker",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Goldie",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 12,
+        "day": 27
+      },
+      "catchphrase": "woof",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Gonzo",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Koala",
+      "birthday": {
+        "month": 10,
+        "day": 13
+      },
+      "catchphrase": "mate",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Goose",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Chicken",
+      "birthday": {
+        "month": 10,
+        "day": 4
+      },
+      "catchphrase": "buh-kay",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Graham",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Hamster",
+      "birthday": {
+        "month": 6,
+        "day": 20
+      },
+      "catchphrase": "indeed",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Greta",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 9,
+        "day": 5
+      },
+      "catchphrase": "yelp",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Grizzly",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 7,
+        "day": 31
+      },
+      "catchphrase": "grrr...",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Groucho",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 10,
+        "day": 23
+      },
+      "catchphrase": "grumble",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Gruff",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Goat",
+      "birthday": {
+        "month": 8,
+        "day": 29
+      },
+      "catchphrase": "bleh eh eh",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Gwen",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Penguin",
+      "birthday": {
+        "month": 1,
+        "day": 23
+      },
+      "catchphrase": "h-h-hon",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Hamlet",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Hamster",
+      "birthday": {
+        "month": 5,
+        "day": 30
+      },
+      "catchphrase": "hammie",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Hamphrey",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Hamster",
+      "birthday": {
+        "month": 2,
+        "day": 25
+      },
+      "catchphrase": "snort",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Hans",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 12,
+        "day": 5
+      },
+      "catchphrase": "groovy",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Harry",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Hippo",
+      "birthday": {
+        "month": 1,
+        "day": 7
+      },
+      "catchphrase": "beach bum",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Hazel",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 8,
+        "day": 30
+      },
+      "catchphrase": "uni-wow",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Henry",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 9,
+        "day": 21
+      },
+      "catchphrase": "snoozit",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Hippeux",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Hippo",
+      "birthday": {
+        "month": 10,
+        "day": 15
+      },
+      "catchphrase": "natch",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Hopkins",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 3,
+        "day": 11
+      },
+      "catchphrase": "thumper",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Hopper",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 4,
+        "day": 6
+      },
+      "catchphrase": "slushie",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Hornsby",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Rhino",
+      "birthday": {
+        "month": 3,
+        "day": 20
+      },
+      "catchphrase": "schnozzle",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Huck",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 7,
+        "day": 9
+      },
+      "catchphrase": "hopper",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Hugh",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 12,
+        "day": 30
+      },
+      "catchphrase": "snortle",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Iggly",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 11,
+        "day": 2
+      },
+      "catchphrase": "waddler",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Ike",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 5,
+        "day": 16
+      },
+      "catchphrase": "roadie",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Jacob",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 8,
+        "day": 24
+      },
+      "catchphrase": "chuuuuurp",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Jacques",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 6,
+        "day": 22
+      },
+      "catchphrase": "zut alors",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Jambette",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Frog",
+      "birthday": {
+        "month": 10,
+        "day": 27
+      },
+      "catchphrase": "croak-kay",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Jay",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 7,
+        "day": 17
+      },
+      "catchphrase": "heeeeeyy",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Jeremiah",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 7,
+        "day": 8
+      },
+      "catchphrase": "nee-deep",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Jitters",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 2,
+        "day": 2
+      },
+      "catchphrase": "bzzert",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Joey",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 1,
+        "day": 3
+      },
+      "catchphrase": "bleeeeeck",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Judy",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 3,
+        "day": 10
+      },
+      "catchphrase": "myohmy",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Julia",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 7,
+        "day": 31
+      },
+      "catchphrase": "dahling",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Julian",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 3,
+        "day": 15
+      },
+      "catchphrase": "glitter",
+      "hobbies": "Music"
+    },
+    {
+      "name": "June",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 5,
+        "day": 21
+      },
+      "catchphrase": "rainbow",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Kabuki",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 11,
+        "day": 29
+      },
+      "catchphrase": "meooo-OH",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Katt",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 4,
+        "day": 27
+      },
+      "catchphrase": "purrty",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Keaton",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 6,
+        "day": 1
+      },
+      "catchphrase": "wingo",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Ken",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Chicken",
+      "birthday": {
+        "month": 12,
+        "day": 23
+      },
+      "catchphrase": "no doubt",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Ketchup",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 7,
+        "day": 27
+      },
+      "catchphrase": "bitty",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Kevin",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 4,
+        "day": 26
+      },
+      "catchphrase": "weeweewee",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Kid Cat",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 8,
+        "day": 1
+      },
+      "catchphrase": "psst",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Kidd",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Goat",
+      "birthday": {
+        "month": 6,
+        "day": 28
+      },
+      "catchphrase": "wut",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Kiki",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 10,
+        "day": 8
+      },
+      "catchphrase": "kitty cat",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Kitt",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 10,
+        "day": 11
+      },
+      "catchphrase": "child",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Kitty",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 2,
+        "day": 15
+      },
+      "catchphrase": "mrowrr",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Klaus",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 3,
+        "day": 31
+      },
+      "catchphrase": "strudel",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Knox",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Chicken",
+      "birthday": {
+        "month": 11,
+        "day": 23
+      },
+      "catchphrase": "cluckling",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Kody",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 9,
+        "day": 28
+      },
+      "catchphrase": "grah-grah",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Kyle",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Wolf",
+      "birthday": {
+        "month": 12,
+        "day": 6
+      },
+      "catchphrase": "alpha",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Leonardo",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Tiger",
+      "birthday": {
+        "month": 5,
+        "day": 15
+      },
+      "catchphrase": "flexin",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Leopold",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 8,
+        "day": 14
+      },
+      "catchphrase": "lion cub",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Lily",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Frog",
+      "birthday": {
+        "month": 2,
+        "day": 4
+      },
+      "catchphrase": "toady",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Limberg",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 10,
+        "day": 17
+      },
+      "catchphrase": "squinky",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Lionel",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 7,
+        "day": 29
+      },
+      "catchphrase": "precisely",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Lobo",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Wolf",
+      "birthday": {
+        "month": 11,
+        "day": 5
+      },
+      "catchphrase": "ah-rooooo",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Lolly",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 3,
+        "day": 27
+      },
+      "catchphrase": "bonbon",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Lopez",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Deer",
+      "birthday": {
+        "month": 8,
+        "day": 20
+      },
+      "catchphrase": "buckaroo",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Louie",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 3,
+        "day": 26
+      },
+      "catchphrase": "hoo hoo ha",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Lucha",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 12,
+        "day": 12
+      },
+      "catchphrase": "cacaw",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Lucky",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 11,
+        "day": 4
+      },
+      "catchphrase": "rrr-owch",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Lucy",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 6,
+        "day": 2
+      },
+      "catchphrase": "snoooink",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Lyman",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Koala",
+      "birthday": {
+        "month": 10,
+        "day": 12
+      },
+      "catchphrase": "chips",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Mac",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 11,
+        "day": 11
+      },
+      "catchphrase": "woo woof",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Maddie",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 1,
+        "day": 11
+      },
+      "catchphrase": "yippee",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Maelle",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 4,
+        "day": 8
+      },
+      "catchphrase": "duckling",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Maggie",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 9,
+        "day": 3
+      },
+      "catchphrase": "schep",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Mallary",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 11,
+        "day": 17
+      },
+      "catchphrase": "quackpth",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Maple",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 6,
+        "day": 15
+      },
+      "catchphrase": "honey",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Marcel",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 12,
+        "day": 31
+      },
+      "catchphrase": "non",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Marcie",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 5,
+        "day": 31
+      },
+      "catchphrase": "pouches",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Margie",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Elephant",
+      "birthday": {
+        "month": 1,
+        "day": 28
+      },
+      "catchphrase": "tootie",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Marina",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Octopus",
+      "birthday": {
+        "month": 6,
+        "day": 26
+      },
+      "catchphrase": "blurp",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Marshal",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 9,
+        "day": 29
+      },
+      "catchphrase": "sulky",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Mathilda",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 11,
+        "day": 12
+      },
+      "catchphrase": "wee baby",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Megan",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Bear",
+      "birthday": {
+        "month": 3,
+        "day": 13
+      },
+      "catchphrase": "sundae",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Melba",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Koala",
+      "birthday": {
+        "month": 4,
+        "day": 12
+      },
+      "catchphrase": "toasty",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Merengue",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Rhino",
+      "birthday": {
+        "month": 3,
+        "day": 19
+      },
+      "catchphrase": "shortcake",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Merry",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 6,
+        "day": 29
+      },
+      "catchphrase": "mweee",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Midge",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Bird",
+      "birthday": {
+        "month": 3,
+        "day": 12
+      },
+      "catchphrase": "tweedledee",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Mint",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 5,
+        "day": 2
+      },
+      "catchphrase": "ahhhhhh",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Mira",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 7,
+        "day": 6
+      },
+      "catchphrase": "cottontail",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Miranda",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 4,
+        "day": 23
+      },
+      "catchphrase": "quackulous",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Mitzi",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 9,
+        "day": 25
+      },
+      "catchphrase": "mew",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Moe",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 1,
+        "day": 12
+      },
+      "catchphrase": "myawn",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Molly",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 3,
+        "day": 7
+      },
+      "catchphrase": "quackidee",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Monique",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 9,
+        "day": 30
+      },
+      "catchphrase": "pffffft",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Monty",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Monkey",
+      "birthday": {
+        "month": 12,
+        "day": 7
+      },
+      "catchphrase": "g'tang",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Moose",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 9,
+        "day": 13
+      },
+      "catchphrase": "shorty",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Mott",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 7,
+        "day": 10
+      },
+      "catchphrase": "cagey",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Muffy",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 2,
+        "day": 14
+      },
+      "catchphrase": "nightshade",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Murphy",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 12,
+        "day": 29
+      },
+      "catchphrase": "laddie",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Nan",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Goat",
+      "birthday": {
+        "month": 8,
+        "day": 24
+      },
+      "catchphrase": "kid",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Nana",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Monkey",
+      "birthday": {
+        "month": 8,
+        "day": 23
+      },
+      "catchphrase": "po po",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Naomi",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cow",
+      "birthday": {
+        "month": 2,
+        "day": 28
+      },
+      "catchphrase": "moolah",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Nate",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 8,
+        "day": 16
+      },
+      "catchphrase": "yawwwn",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Nibbles",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 7,
+        "day": 19
+      },
+      "catchphrase": "niblet",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Norma",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cow",
+      "birthday": {
+        "month": 9,
+        "day": 20
+      },
+      "catchphrase": "hoof hoo",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "O'Hare",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 7,
+        "day": 24
+      },
+      "catchphrase": "amigo",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Octavian",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Octopus",
+      "birthday": {
+        "month": 9,
+        "day": 20
+      },
+      "catchphrase": "sucker",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Olaf",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Anteater",
+      "birthday": {
+        "month": 5,
+        "day": 19
+      },
+      "catchphrase": "whiffa",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Olive",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 7,
+        "day": 12
+      },
+      "catchphrase": "sweet pea",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Olivia",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 2,
+        "day": 3
+      },
+      "catchphrase": "purrr",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Opal",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Elephant",
+      "birthday": {
+        "month": 1,
+        "day": 20
+      },
+      "catchphrase": "snoot",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Ozzie",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Koala",
+      "birthday": {
+        "month": 5,
+        "day": 7
+      },
+      "catchphrase": "ol' bear",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Pancetti",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 11,
+        "day": 14
+      },
+      "catchphrase": "sooey",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Pango",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Anteater",
+      "birthday": {
+        "month": 11,
+        "day": 9
+      },
+      "catchphrase": "snooooof",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Paolo",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Elephant",
+      "birthday": {
+        "month": 5,
+        "day": 5
+      },
+      "catchphrase": "pal",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Papi",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 1,
+        "day": 10
+      },
+      "catchphrase": "haaay",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Pashmina",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Goat",
+      "birthday": {
+        "month": 12,
+        "day": 26
+      },
+      "catchphrase": "kidders",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Pate",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 2,
+        "day": 23
+      },
+      "catchphrase": "quackle",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Patty",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cow",
+      "birthday": {
+        "month": 5,
+        "day": 10
+      },
+      "catchphrase": "how-now",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Paula",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Bear",
+      "birthday": {
+        "month": 3,
+        "day": 22
+      },
+      "catchphrase": "yodelay",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Peaches",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 11,
+        "day": 28
+      },
+      "catchphrase": "neighbor",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Peanut",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 6,
+        "day": 8
+      },
+      "catchphrase": "slacker",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Pecan",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 9,
+        "day": 10
+      },
+      "catchphrase": "chipmunk",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Peck",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 7,
+        "day": 25
+      },
+      "catchphrase": "crunch",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Peewee",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 9,
+        "day": 11
+      },
+      "catchphrase": "li'l dude",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Peggy",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 5,
+        "day": 23
+      },
+      "catchphrase": "shweetie",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Pekoe",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 5,
+        "day": 18
+      },
+      "catchphrase": "bud",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Penelope",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Mouse",
+      "birthday": {
+        "month": 2,
+        "day": 5
+      },
+      "catchphrase": "oh bow",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Phil",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 11,
+        "day": 27
+      },
+      "catchphrase": "hurk",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Phoebe",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 4,
+        "day": 22
+      },
+      "catchphrase": "sparky",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Pierce",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 1,
+        "day": 8
+      },
+      "catchphrase": "hawkeye",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Pietro",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Sheep",
+      "birthday": {
+        "month": 4,
+        "day": 19
+      },
+      "catchphrase": "honk honk",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Pinky",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Bear",
+      "birthday": {
+        "month": 9,
+        "day": 9
+      },
+      "catchphrase": "wah",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Piper",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Bird",
+      "birthday": {
+        "month": 4,
+        "day": 18
+      },
+      "catchphrase": "chickadee",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Pippy",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 6,
+        "day": 14
+      },
+      "catchphrase": "li'l hare",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Plucky",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Chicken",
+      "birthday": {
+        "month": 10,
+        "day": 12
+      },
+      "catchphrase": "chicky-poo",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Pompom",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Duck",
+      "birthday": {
+        "month": 2,
+        "day": 11
+      },
+      "catchphrase": "rah rah",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Poncho",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 1,
+        "day": 2
+      },
+      "catchphrase": "li'l bear",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Poppy",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 8,
+        "day": 5
+      },
+      "catchphrase": "nutty",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Portia",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Dog",
+      "birthday": {
+        "month": 10,
+        "day": 25
+      },
+      "catchphrase": "ruffian",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Prince",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 7,
+        "day": 21
+      },
+      "catchphrase": "burrup",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Puck",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 2,
+        "day": 21
+      },
+      "catchphrase": "brrrrrrrrr",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Puddles",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Frog",
+      "birthday": {
+        "month": 1,
+        "day": 13
+      },
+      "catchphrase": "splish",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Pudge",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 6,
+        "day": 11
+      },
+      "catchphrase": "pudgy",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Punchy",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 4,
+        "day": 11
+      },
+      "catchphrase": "mrmpht",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Purrl",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 5,
+        "day": 29
+      },
+      "catchphrase": "kitten",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Queenie",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 11,
+        "day": 13
+      },
+      "catchphrase": "chicken",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Quillson",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 12,
+        "day": 22
+      },
+      "catchphrase": "ridukulous",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Raddle",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 6,
+        "day": 6
+      },
+      "catchphrase": "aaach-",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Rasher",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 4,
+        "day": 7
+      },
+      "catchphrase": "swine",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Raymond",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 10,
+        "day": 1
+      },
+      "catchphrase": "crisp",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Reneigh",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 6,
+        "day": 4
+      },
+      "catchphrase": "ayup, yup",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Renée",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Rhino",
+      "birthday": {
+        "month": 5,
+        "day": 28
+      },
+      "catchphrase": "yo yo yo",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Rex",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 7,
+        "day": 24
+      },
+      "catchphrase": "cool cat",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Rhonda",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Rhino",
+      "birthday": {
+        "month": 1,
+        "day": 24
+      },
+      "catchphrase": "bigfoot",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Ribbot",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 2,
+        "day": 13
+      },
+      "catchphrase": "zzrrbbitt",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Ricky",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 9,
+        "day": 14
+      },
+      "catchphrase": "nutcase",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Rizzo",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 1,
+        "day": 17
+      },
+      "catchphrase": "squee",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Roald",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 1,
+        "day": 5
+      },
+      "catchphrase": "b-b-buddy",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Robin",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Bird",
+      "birthday": {
+        "month": 12,
+        "day": 4
+      },
+      "catchphrase": "la-di-da",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Rocco",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Hippo",
+      "birthday": {
+        "month": 8,
+        "day": 18
+      },
+      "catchphrase": "hippie",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Rocket",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 4,
+        "day": 14
+      },
+      "catchphrase": "vroom",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Rod",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 8,
+        "day": 14
+      },
+      "catchphrase": "ace",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Rodeo",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Bull",
+      "birthday": {
+        "month": 10,
+        "day": 29
+      },
+      "catchphrase": "chaps",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Rodney",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Hamster",
+      "birthday": {
+        "month": 11,
+        "day": 10
+      },
+      "catchphrase": "le ham",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Rolf",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Tiger",
+      "birthday": {
+        "month": 8,
+        "day": 22
+      },
+      "catchphrase": "grrrolf",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Rooney",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 12,
+        "day": 1
+      },
+      "catchphrase": "punches",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Rory",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Lion",
+      "birthday": {
+        "month": 8,
+        "day": 7
+      },
+      "catchphrase": "capital",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Roscoe",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Horse",
+      "birthday": {
+        "month": 6,
+        "day": 16
+      },
+      "catchphrase": "nay",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Rosie",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 2,
+        "day": 27
+      },
+      "catchphrase": "silly",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Rowan",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Tiger",
+      "birthday": {
+        "month": 8,
+        "day": 26
+      },
+      "catchphrase": "mango",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Ruby",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 12,
+        "day": 25
+      },
+      "catchphrase": "li'l ears",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Rudy",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 12,
+        "day": 20
+      },
+      "catchphrase": "mush",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Sally",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 6,
+        "day": 19
+      },
+      "catchphrase": "nutmeg",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Samson",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Mouse",
+      "birthday": {
+        "month": 7,
+        "day": 5
+      },
+      "catchphrase": "pipsqueak",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Sandy",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 10,
+        "day": 21
+      },
+      "catchphrase": "speedy",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Savannah",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 1,
+        "day": 25
+      },
+      "catchphrase": "y'all",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Scoot",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 6,
+        "day": 13
+      },
+      "catchphrase": "zip zoom",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Shari",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Monkey",
+      "birthday": {
+        "month": 4,
+        "day": 10
+      },
+      "catchphrase": "cheeky",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Sheldon",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 2,
+        "day": 26
+      },
+      "catchphrase": "cardio",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Shep",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 11,
+        "day": 24
+      },
+      "catchphrase": "baa baa baa",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Sherb",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Goat",
+      "birthday": {
+        "month": 1,
+        "day": 18
+      },
+      "catchphrase": "bawwww",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Simon",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Monkey",
+      "birthday": {
+        "month": 1,
+        "day": 19
+      },
+      "catchphrase": "zzzook",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Skye",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Wolf",
+      "birthday": {
+        "month": 3,
+        "day": 24
+      },
+      "catchphrase": "airmail",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Sly",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Alligator",
+      "birthday": {
+        "month": 11,
+        "day": 15
+      },
+      "catchphrase": "hoo-rah",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Snake",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 11,
+        "day": 3
+      },
+      "catchphrase": "bunyip",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Snooty",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Anteater",
+      "birthday": {
+        "month": 8,
+        "day": 24
+      },
+      "catchphrase": "snifffff",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Soleil",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Hamster",
+      "birthday": {
+        "month": 8,
+        "day": 9
+      },
+      "catchphrase": "tarnation",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Sparro",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Bird",
+      "birthday": {
+        "month": 11,
+        "day": 20
+      },
+      "catchphrase": "like whoa",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Spike",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Rhino",
+      "birthday": {
+        "month": 6,
+        "day": 17
+      },
+      "catchphrase": "punk",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Spork",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Pig",
+      "birthday": {
+        "month": 9,
+        "day": 3
+      },
+      "catchphrase": "snork",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Sprinkle",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Penguin",
+      "birthday": {
+        "month": 2,
+        "day": 20
+      },
+      "catchphrase": "frappe",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Sprocket",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Ostrich",
+      "birthday": {
+        "month": 12,
+        "day": 1
+      },
+      "catchphrase": "zort",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Static",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 7,
+        "day": 9
+      },
+      "catchphrase": "krzzt",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Stella",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 4,
+        "day": 9
+      },
+      "catchphrase": "baa-dabing",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Sterling",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Eagle",
+      "birthday": {
+        "month": 12,
+        "day": 11
+      },
+      "catchphrase": "skraaaaw",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Stinky",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 8,
+        "day": 17
+      },
+      "catchphrase": "GAHHHH",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Stitches",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 2,
+        "day": 10
+      },
+      "catchphrase": "stuffin'",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Stu",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Bull",
+      "birthday": {
+        "month": 4,
+        "day": 20
+      },
+      "catchphrase": "moo-dude",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Sydney",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Koala",
+      "birthday": {
+        "month": 6,
+        "day": 21
+      },
+      "catchphrase": "sunshine",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Sylvana",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 10,
+        "day": 22
+      },
+      "catchphrase": "hubbub",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Sylvia",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 5,
+        "day": 3
+      },
+      "catchphrase": "boing",
+      "hobbies": "Music"
+    },
+    {
+      "name": "T-Bone",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bull",
+      "birthday": {
+        "month": 5,
+        "day": 20
+      },
+      "catchphrase": "moocher",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Tabby",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 8,
+        "day": 13
+      },
+      "catchphrase": "me-WOW",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Tad",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 8,
+        "day": 3
+      },
+      "catchphrase": "sluuuurp",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Tammi",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Monkey",
+      "birthday": {
+        "month": 4,
+        "day": 2
+      },
+      "catchphrase": "chimpy",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Tammy",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Cub",
+      "birthday": {
+        "month": 6,
+        "day": 23
+      },
+      "catchphrase": "ya heard",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Tangy",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Cat",
+      "birthday": {
+        "month": 6,
+        "day": 17
+      },
+      "catchphrase": "reeeeOWR",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Tank",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Rhino",
+      "birthday": {
+        "month": 5,
+        "day": 6
+      },
+      "catchphrase": "kerPOW",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Tasha",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Squirrel",
+      "birthday": {
+        "month": 11,
+        "day": 30
+      },
+      "catchphrase": "nice nice",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Teddy",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Bear",
+      "birthday": {
+        "month": 9,
+        "day": 26
+      },
+      "catchphrase": "grooof",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Tex",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 10,
+        "day": 6
+      },
+      "catchphrase": "picante",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Tia",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Elephant",
+      "birthday": {
+        "month": 11,
+        "day": 18
+      },
+      "catchphrase": "teacup",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Tiffany",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Rabbit",
+      "birthday": {
+        "month": 1,
+        "day": 9
+      },
+      "catchphrase": "bun bun",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Timbra",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 10,
+        "day": 21
+      },
+      "catchphrase": "pine nut",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Tipper",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Cow",
+      "birthday": {
+        "month": 8,
+        "day": 25
+      },
+      "catchphrase": "pushy",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Tom",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Cat",
+      "birthday": {
+        "month": 12,
+        "day": 10
+      },
+      "catchphrase": "me-YOWZA",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Truffles",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Pig",
+      "birthday": {
+        "month": 7,
+        "day": 28
+      },
+      "catchphrase": "snoutie",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Tucker",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Elephant",
+      "birthday": {
+        "month": 9,
+        "day": 7
+      },
+      "catchphrase": "fuzzers",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Tutu",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Bear",
+      "birthday": {
+        "month": 11,
+        "day": 15
+      },
+      "catchphrase": "twinkles",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Twiggy",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Bird",
+      "birthday": {
+        "month": 7,
+        "day": 13
+      },
+      "catchphrase": "cheepers",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Tybalt",
+      "personality": "Jock",
+      "gender": "male",
+      "species": "Tiger",
+      "birthday": {
+        "month": 8,
+        "day": 19
+      },
+      "catchphrase": "grrRAH",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Ursala",
+      "personality": "Sisterly",
+      "gender": "female",
+      "species": "Bear",
+      "birthday": {
+        "month": 1,
+        "day": 16
+      },
+      "catchphrase": "grooomph",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Velma",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Goat",
+      "birthday": {
+        "month": 1,
+        "day": 14
+      },
+      "catchphrase": "blih",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Vesta",
+      "personality": "Normal",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 4,
+        "day": 16
+      },
+      "catchphrase": "baaaffo",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Vic",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Bull",
+      "birthday": {
+        "month": 12,
+        "day": 29
+      },
+      "catchphrase": "cud",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Victoria",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 7,
+        "day": 11
+      },
+      "catchphrase": "sugar cube",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Violet",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Gorilla",
+      "birthday": {
+        "month": 9,
+        "day": 1
+      },
+      "catchphrase": "sweetie",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Vivian",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Wolf",
+      "birthday": {
+        "month": 1,
+        "day": 26
+      },
+      "catchphrase": "piffle",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Vladimir",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Cub",
+      "birthday": {
+        "month": 8,
+        "day": 2
+      },
+      "catchphrase": "nyet",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Wade",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Penguin",
+      "birthday": {
+        "month": 10,
+        "day": 30
+      },
+      "catchphrase": "so it goes",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Walker",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Dog",
+      "birthday": {
+        "month": 6,
+        "day": 10
+      },
+      "catchphrase": "wuh",
+      "hobbies": "Play"
+    },
+    {
+      "name": "Walt",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Kangaroo",
+      "birthday": {
+        "month": 4,
+        "day": 24
+      },
+      "catchphrase": "pockets",
+      "hobbies": "Fitness"
+    },
+    {
+      "name": "Wart Jr.",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Frog",
+      "birthday": {
+        "month": 8,
+        "day": 21
+      },
+      "catchphrase": "grr-ribbit",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Weber",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Duck",
+      "birthday": {
+        "month": 6,
+        "day": 30
+      },
+      "catchphrase": "quaa",
+      "hobbies": "Nature"
+    },
+    {
+      "name": "Wendy",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 8,
+        "day": 15
+      },
+      "catchphrase": "lambkins",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Whitney",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Wolf",
+      "birthday": {
+        "month": 9,
+        "day": 17
+      },
+      "catchphrase": "snappy",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Willow",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Sheep",
+      "birthday": {
+        "month": 11,
+        "day": 26
+      },
+      "catchphrase": "bo peep",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Winnie",
+      "personality": "Peppy",
+      "gender": "female",
+      "species": "Horse",
+      "birthday": {
+        "month": 1,
+        "day": 31
+      },
+      "catchphrase": "hay-OK",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Wolfgang",
+      "personality": "Cranky",
+      "gender": "male",
+      "species": "Wolf",
+      "birthday": {
+        "month": 11,
+        "day": 25
+      },
+      "catchphrase": "snarrrl",
+      "hobbies": "Education"
+    },
+    {
+      "name": "Yuka",
+      "personality": "Snooty",
+      "gender": "female",
+      "species": "Koala",
+      "birthday": {
+        "month": 7,
+        "day": 20
+      },
+      "catchphrase": "tsk tsk",
+      "hobbies": "Fashion"
+    },
+    {
+      "name": "Zell",
+      "personality": "Smug",
+      "gender": "male",
+      "species": "Deer",
+      "birthday": {
+        "month": 6,
+        "day": 7
+      },
+      "catchphrase": "pronk",
+      "hobbies": "Music"
+    },
+    {
+      "name": "Zucker",
+      "personality": "Lazy",
+      "gender": "male",
+      "species": "Octopus",
+      "birthday": {
+        "month": 3,
+        "day": 8
+      },
+      "catchphrase": "bloop",
+      "hobbies": "Nature"
+    }
+  ]
+}
