@@ -8,3 +8,4 @@ Most of the data is derived from https://docs.google.com/spreadsheets/d/10MQUvDd
 and processed for easier handling.
 
 Animal Crossing: New Horizons is owned by Nintendo and is protected by trademark and copyright laws.
+This project is not affiliated with or endorsed by Nintendo.
