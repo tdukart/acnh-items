@@ -1,6 +1,9 @@
 # acnh-items
 
-![Node.js CI](https://github.com/tdukart/acnh-items/workflows/Node.js%20CI/badge.svg)
+![GitHub Status](https://badgen.net/github/status/tdukart/acnh-items)
+![Bundlephobia](https://badgen.net/bundlephobia/minzip/acnh-items)
+![Types](https://badgen.net/npm/types/acnh-items)
+![Badge Count](https://badgen.net/badge/badges/4)
 
 A database of collectible items (bugs, fish, fossils, and music) in Animal Crossing: New Horizons.
 
