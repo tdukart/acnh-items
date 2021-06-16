@@ -1,3 +1,6 @@
+# DEPRECATED
+This package is very outdated and is no longer maintained. Try https://www.npmjs.com/package/acnh-db-json as an alternative source.
+
 # acnh-items
 
 ![GitHub Status](https://badgen.net/github/status/tdukart/acnh-items)
